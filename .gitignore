@@ -1,18 +1,32 @@
-# Backend
-backend/venv/
-backend/__pycache__/
-backend/app/__pycache__/
-backend/**/__pycache__/
-backend/.env
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+
+# Backend sensitive
+backend/app/.env
 backend/*.db
 backend/cloud-sql-proxy
+backend/migrate_*.py
+backend/seed_*.py
+backend/patch_*.py
+backend/routes_generator.py
 
 # Frontend
 frontend/node_modules/
 frontend/build/
+frontend/.env
+frontend/.env.development
+frontend/.env.production
+frontend/.firebase/
 
-# General
+# System
 .DS_Store
-*.pyc
-antigravity.zip
-antigravity.zip
+*.DS_Store
+
+# Loose scripts
+fix_support_v2.py
+patch_admin.py
