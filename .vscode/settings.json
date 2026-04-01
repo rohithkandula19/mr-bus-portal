@@ -1,0 +1,4 @@
+{
+    "envWatcher.enabled": false,
+    "python.REPL.enableREPLSmartSend": false
+}

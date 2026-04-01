@@ -1,0 +1,10 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+FLIXBUS:2030,FLIXBUS,FlixBus,Los Angeles - Las Vegas,,3,,73D700,FFFFFF
+FLIXBUS:2042,FLIXBUS,FlixBus,Phoenix - Tucson,,3,,73D700,FFFFFF
+FLIXBUS:2047,FLIXBUS,FlixBus,Tucson - Phoenix - Flagstaff,,3,,73D700,FFFFFF
+FLIXBUS:2240,FLIXBUS,FlixBus,Dallas - Houston,,3,,73D700,FFFFFF
+FLIXBUS:2411,FLIXBUS,FlixBus,Miami-Orlando,,3,,73D700,FFFFFF
+FLIXBUS:2601,FLIXBUS,FlixBus,New York-Baltimore-Washington-Richmond,,3,,73D700,FFFFFF
+FLIXBUS:2605,FLIXBUS,FlixBus,BOS - DC,,3,,73D700,FFFFFF
+FLIXBUS:N2030,FLIXBUS,FlixBus,Los Angeles - Las Vegas (Nightline),,3,,73D700,FFFFFF
+FLIXBUS:N2210,FLIXBUS,FlixBus,Austin - New Orleans,,3,,73D700,FFFFFF
